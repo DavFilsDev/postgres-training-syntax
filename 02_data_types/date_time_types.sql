@@ -2,7 +2,7 @@
 ==========================================================
  FILE: date_time_types.sql
  PURPOSE: Learn date and time data types in PostgreSQL
- AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBEs
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ==========================================================
 */
 
@@ -30,7 +30,7 @@ CREATE TABLE example_date (
 
 CREATE TABLE example_time (
     id SERIAL PRIMARY KEY,
-    login_time TIME -- only time of day
+    login_time TIME -- only time of dayr
 );
 
 
