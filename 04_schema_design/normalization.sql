@@ -2,7 +2,7 @@
 ===========================================================
  File: normalization.sql
  Description: Examples of database normalization (1NF, 2NF, 3NF)
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 

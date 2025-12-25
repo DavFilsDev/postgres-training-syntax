@@ -2,7 +2,7 @@
 ===========================================================
  File: indexes.sql
  Description: Examples of PostgreSQL indexes
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 

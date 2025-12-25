@@ -2,7 +2,7 @@
 ===========================================================
  File: partitioning.sql
  Description: Examples of table partitioning in PostgreSQL
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 

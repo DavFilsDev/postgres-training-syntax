@@ -2,7 +2,7 @@
 ===========================================================
  File: relationships.sql
  Description: Examples of database relationships in PostgreSQL
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 
