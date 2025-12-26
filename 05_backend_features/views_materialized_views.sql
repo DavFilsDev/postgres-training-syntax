@@ -2,7 +2,7 @@
 ===========================================================
  File: views_materialized_views.sql
  Description: Examples of PostgreSQL views and materialized views
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 

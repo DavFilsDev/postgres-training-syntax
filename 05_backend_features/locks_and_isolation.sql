@@ -2,7 +2,7 @@
 ===========================================================
  File: locks_and_isolation.sql
  Description: Examples of locks and transaction isolation levels in PostgreSQL
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 

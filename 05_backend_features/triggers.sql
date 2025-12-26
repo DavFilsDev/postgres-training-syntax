@@ -2,7 +2,7 @@
 ===========================================================
  File: triggers.sql
  Description: Examples of PostgreSQL triggers
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 

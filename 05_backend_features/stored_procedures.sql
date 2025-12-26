@@ -2,7 +2,7 @@
 ===========================================================
  File: stored_procedures.sql
  Description: Examples of PostgreSQL stored procedures
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 
