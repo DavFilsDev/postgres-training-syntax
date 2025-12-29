@@ -2,7 +2,7 @@
 ===========================================================
  File: query_optimization.sql
  Description: Examples of query optimization techniques in PostgreSQL
- Author: David (SQL Training Project)
+ AUTHOR: Fanampinirina Miharisoa David Fils RATIANDRAIBE
 ===========================================================
 */
 
